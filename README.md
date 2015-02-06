@@ -5,3 +5,5 @@ It's an app that is similar to the combination of yelp and ordering system. Peop
 It's based on IOS platform using objective-c and maintained the data persistence with SQLite.The server is implemented by PHP and MySQL with REST-style; Used Rest-Kit to communicate between the
 client and the server in JSON.
 
+The iphone app is here: https://github.com/jiujiu0818/Myorders_iphone
+
